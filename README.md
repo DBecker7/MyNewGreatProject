@@ -10,8 +10,3 @@
 
 **Pull**: Bring the remote changes to your computer.
 
-<<<<<<<
-
-=======
-
->>>>>>>
