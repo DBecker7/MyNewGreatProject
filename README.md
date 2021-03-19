@@ -7,3 +7,5 @@
 **Commit**: Group of changes with a meanigful message
 
 **Push**: Send to GitHub
+
+**Pull**: Send these changes to you computer
