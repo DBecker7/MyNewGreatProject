@@ -9,3 +9,9 @@
 **Push**: Send to GitHub
 
 **Pull**: Bring the remote changes to your computer.
+
+<<<<<<<
+
+=======
+
+>>>>>>>
